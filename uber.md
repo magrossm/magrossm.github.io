@@ -25,7 +25,7 @@ permalink: /uber/
 - Infrastuktur: Windows sowie RedHat/CentOS inklusive minimaler Versionen (CoreOS, Atomic), Docker, Kata, VMWare, HyperV 
 - DevOps: Terraform, Ansible, Git/Gitea, Lambda, Jenkins, CodeDeploy, Kubernetes, Puppet, Heptio
 - Monitoring: Grafana, Prometheus, ELK Stack, Splunk, Check_MK
-- Storage: Ceph, Gluster, tradiioneller Storage
+- Storage: Ceph, Gluster, S3, EBS
 - DB: MySQL, MariaDB, PostGreSQL, MongoDB, Oracle
 - Cloud: AWS, OpenStack/OpenShift, Google Cloud
 - PM: Scrum, SAFe, ITIL
