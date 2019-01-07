@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ueber
-permalink: /ueber/
+title: Uber
+permalink: /uber/
 ---
 
 Test
