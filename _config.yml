@@ -3,7 +3,7 @@ title_left    : "Was ist "
 title_right   : "Grandhomme?" # default: ""
 description   : "ITSec & DevOps"
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url           : https://magrossm.github.io # site url
+url           : www,grandhomme.ch # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
