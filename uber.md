@@ -26,6 +26,7 @@ permalink: /uber/
 - DevOps: Terraform, Ansible, Git/Gitea, Lambda, Jenkins, CodeDeploy, Kubernetes, Puppet
 - Monitoring: Grafana, Prometheus, ELK Stack, Splunk, Check_MK
 - Storage: Ceph, Gluster, tradiioneller Storage
+- DB: MySQL, MariaDB, PostGreSQL, MongoDB, Oracle
 - Cloud: AWS, OpenStack/OpenShift, Google Cloud
 - PM: Scrum, SAFe, ITIL
 - Sec: Wireshark, Checkpoint, TCPDump, Nmap, Nessus, OpenVAS, Snort, Bro, Infection Monkey, etc.
