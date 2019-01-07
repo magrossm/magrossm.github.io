@@ -1,7 +1,7 @@
 # Site settings
-title_left    : "What is "
+title_left    : "Was ist "
 title_right   : "Grandhomme?" # default: ""
-description   : "Minimalist Jekyll theme for technical writing blog."
+description   : "ITSec & DevOps"
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url           : https://heiswayi.github.io/thinkspace # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
