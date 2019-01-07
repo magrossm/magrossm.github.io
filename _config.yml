@@ -1,6 +1,6 @@
 # Site settings
-title_left    : "ITSec & DevOps "
-title_right   : "Grandhomme" # default: ""
+title_left    : "Martin Grossmann "
+title_right   : "/Grandhomme" # default: ""
 description   : "Minimalist Jekyll theme for technical writing blog."
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url           : https://heiswayi.github.io/thinkspace # site url
