@@ -8,8 +8,13 @@ permalink: /uber/
 
 ### Interessensgebiete
 
-1. Automatisierung IT-Operations und Aufloesung der traditionellen Trennung zwischen Infrakstruktur und Code.
-2. Ansaetze hybrider IT-Landschaften im Virtualisierungs-/Containerisierungsumfeld
+- Automatisierung IT-Operations und Aufloesung der traditionellen Trennung zwischen Infrakstruktur und Code
+- Hybride IT-Landschaften im Virtualisierungs-/Containerisierungsumfeld
+- Multi-Cloud-Infrastruktur
+- Host- und Netzwerksicherheit (Purple Team Perspektive)
+- SIEM Verteidung mit taktischer Ausrichtung
+- Projektleitung im agilen Umfeld
+
 ### Projekte
 
 ### Kenntnisse 
