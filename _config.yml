@@ -1,6 +1,6 @@
 # Site settings
-title_left    : "Martin"
-title_right   : "Grossmann" # default: ""
+title_left    : "Martin "
+title_right   : "GROSSMANN" # default: ""
 description   : "Minimalist Jekyll theme for technical writing blog."
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url           : https://heiswayi.github.io/thinkspace # site url
