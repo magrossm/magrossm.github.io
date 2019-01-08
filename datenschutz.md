@@ -8,7 +8,7 @@ Datenschutzerklärung nach der DSGVO
 
 §1 Verantwortlicher
 
-Der Verantwortliche im Sinne der Datenschutz-Grundverordnung und anderer nationaler Datenschutzgesetze der Mitgliedsstaaten sowie sonstiger datenschutzrechtlicher Bestimmungen ist die:
+Der Verantwortliche im Sinne der Datenschutz-Grundverordnung und anderer nationaler Datenschutzgesetze der Mitgliedsstaaten sowie sonstiger datenschutzrechtlicher Bestimmungen ist:
 
 Martin Grossmann
 Turmstr. 8a
@@ -46,6 +46,7 @@ Rechtsgrundlage für die Verarbeitung der Daten, die im Zuge einer Übersendung 
 Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind. Für die personenbezogenen Daten die per E-Mail übersandt wurden, ist dies dann der Fall, wenn die jeweilige Konversation mit dem Nutzer beendet ist. Beendet ist die Konversation dann, wenn sich aus den Umständen entnehmen lässt, dass der betroffene Sachverhalt abschließend geklärt ist.
 
 Nimmt der Nutzer per E-Mail Kontakt mit uns auf, so kann er der Speicherung seiner personenbezogenen Daten jederzeit widersprechen. In einem solchen Fall kann die Konversation nicht fortgeführt werden. Alle personenbezogenen Daten, die im Zuge der Kontaktaufnahme gespeichert wurden, werden in diesem Fall gelöscht.
+
 §6 Rechte der betroffenen Person
 
 Werden personenbezogene Daten von Ihnen verarbeitet, sind Sie Betroffener i.S.d. DSGVO und es stehen Ihnen die umfassende Rechte gegenüber dem Verantwortlichen zu. Hierzu gehören insbesondere Auskunftsrecht, Recht auf Berichtigung, Recht auf Einschränkung der Verarbeitung, Recht auf Löschung, Recht auf Unterrichtung, Recht auf Datenübertragbarkeit, Widerspruchsrecht, Recht auf Widerruf der datenschutzrechtlichen Einwilligungserklärung sowie das Recht auf Beschwerde bei einer Aufsichtsbehörde.
