@@ -1,5 +1,5 @@
 # Site settings
-title_left    : "#Grand"
+title_left    : "_Grand"
 title_right   : "homme" # default: ""
 description   : "ITSec & DevOps"
 keywords      : ""
