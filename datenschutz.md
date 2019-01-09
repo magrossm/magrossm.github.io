@@ -13,8 +13,9 @@ Der Verantwortliche im Sinne der Datenschutz-Grundverordnung und anderer nationa
 Martin Grossmann
 Turmstr. 8a
 55487 Sohren
-Deutschland
+
 E-Mail: kontakt@grandhomme.ch
+Telegram: @grandhomme
 
 §2 Umfang der Verarbeitung personenbezogener Daten
 
