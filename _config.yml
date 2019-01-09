@@ -1,6 +1,6 @@
 # Site settings
-title_left    : "GRAND"
-title_right   : "homme" # default: ""
+title_left    : "#"
+title_right   : "Grandhomme" # default: ""
 description   : "ITSec & DevOps"
 keywords      : ""
 url           : https://magrossm.github.io # site url
