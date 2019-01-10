@@ -8,6 +8,14 @@ permalink: /uber/
 
 ---
 
+### Training
+
+- SANS DEV540 Secure DevOps & Cloud Application Security (nov.18)
+- Professional Scrum Master I (jan.19) ) `Zertifizierung ausstehend`
+- Mesosphere DC/OS Fundamentals & Day-2 Operations (feb.19)  
+
+---
+
 ### Interessensgebiete
 
 - Automatisierung IT-Operations und Aufloesung der traditionellen Trennung zwischen Infrakstruktur und Code
