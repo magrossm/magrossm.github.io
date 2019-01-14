@@ -14,6 +14,7 @@ _Grandhomme_ ist der Weblog von Martin Grossmann; einem wissenshungrigen IT-Free
 - Professional Scrum Master I (jan.19) ) `Zertifizierung ausstehend`
 - Mesosphere DC/OS Fundamentals & Day-2 Operations (feb.19)  
 - Ausbildung zum BSI IT-Grundschutz-Experten gemäß BSI IT-Grundschutz-Kompendium und BSI-Standards (Bitkom) `Zertifizierung ausstehend`
+
 ---
 
 ### Interessensgebiete
