@@ -13,7 +13,7 @@ _Grandhomme_ ist der Weblog von Martin Grossmann; einem wissenshungrigen IT-Free
 - SANS DEV540 Secure DevOps & Cloud Application Security (nov.18)
 - Professional Scrum Master I (jan.19) ) `Zertifizierung ausstehend`
 - Mesosphere DC/OS Fundamentals & Day-2 Operations (feb.19)  
-- Ausbildung zum BSI IT-Grundschutz-Experten gemäß BSI IT-Grundschutz-Kompendium und BSI-Standards (Bitkom) `Zertifizierung ausstehend`
+- Ausbildung zum BSI IT-Grundschutz-Experten gemäß BSI IT-Grundschutz-Kompendium und BSI-Standards `Zertifizierung ausstehend`
 
 ---
 
