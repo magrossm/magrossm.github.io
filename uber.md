@@ -17,6 +17,7 @@ _Grandhomme_ ist der Weblog von Martin Grossmann; einem wissenshungrigen IT-Free
 - Cyber Security / Pentest Workshop (ThinkCyber, Tel Aviv)
 - Mesosphere DC/OS Fundamentals & Day-2 Operations (mar.19)
 - IT-Sicherheitsbeauftragter (ITSiBe) / Chief Information Security Officer (CISO) gemäß ISO/IEC 27001 und BSI IT-Grundschutz (jun.19) `Zertifizierung ausstehend
+
 ---
 
 ### Interessensgebiete
