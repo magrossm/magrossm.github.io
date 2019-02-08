@@ -16,7 +16,7 @@ _Grandhomme_ ist der Weblog von Martin Grossmann; einem wissenshungrigen IT-Free
 - Ausbildung zum BSI IT-Grundschutz-Experten gemäß BSI IT-Grundschutz-Kompendium und BSI-Standards (Bitkom / Deutsche Gesellschaft fuer Informationssicherheit) `Zertifizierung ausstehend`
 - Cyber Security / Pentest Workshop (ThinkCyber, Tel Aviv)
 - Mesosphere DC/OS Fundamentals & Day-2 Operations (mar.19)
-- IT-Sicherheitsbeauftragter (ITSiBe) / Chief Information Security Officer (CISO) gemäß ISO/IEC 27001 und BSI IT-Grundschutz (jun.19) `Zertifizierung ausstehend
+- IT-Sicherheitsbeauftragter (ITSiBe) / Chief Information Security Officer (CISO) gemäß ISO/IEC 27001 und BSI IT-Grundschutz (jun.19) `Zertifizierung ausstehend`
 
 ---
 
