@@ -13,9 +13,10 @@ _Grandhomme_ ist der Weblog von Martin Grossmann; einem wissenshungrigen IT-Free
 - SANS DEV540 Secure DevOps & Cloud Application Security (nov.18)
 - Professional Scrum Master I (jan.19) ) `Zertifizierung ausstehend`
 - Ausbildung zum betrieblichen / behördlichen Datenschutzbeauftragten gemäß DSGVO und BDSG (Bitkom / Deutsche Gesellschaft fuer Informationssicherheit) `Zertifikat DGIAG-DSB-20190204`
-- Ausbildung zum BSI IT-Grundschutz-Experten gemäß BSI IT-Grundschutz-Kompendium und BSI-Standards `Zertifizierung ausstehend`
+- Ausbildung zum BSI IT-Grundschutz-Experten gemäß BSI IT-Grundschutz-Kompendium und BSI-Standards (Bitkom / Deutsche Gesellschaft fuer Informationssicherheit) `Zertifizierung ausstehend`
+- Cyber Security / Pentest Workshop (ThinkCyber, Tel Aviv)
 - Mesosphere DC/OS Fundamentals & Day-2 Operations (mar.19)
-
+- IT-Sicherheitsbeauftragter (ITSiBe) / Chief Information Security Officer (CISO) gemäß ISO/IEC 27001 und BSI IT-Grundschutz (jun.19) `Zertifizierung ausstehend
 ---
 
 ### Interessensgebiete
