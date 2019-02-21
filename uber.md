@@ -35,7 +35,7 @@ _Grandhomme_ ist der Weblog von Martin Grossmann; einem wissenshungrigen IT-Free
 
 ---
 
-### Kenntnisse 
+### Technische Kenntnisse 
 
 - Programmierung: Python, Golang, Javascript, Powershell, Bash inklusive gaengiger Dateiformate (JSON, YAML, YARA)
 - Infrastuktur: Windows sowie RedHat/CentOS inklusive minimaler Versionen (CoreOS, Atomic), Docker, Kata, VMWare, HyperV 
@@ -44,7 +44,7 @@ _Grandhomme_ ist der Weblog von Martin Grossmann; einem wissenshungrigen IT-Free
 - Storage: Ceph, Gluster, S3, EBS
 - DB: MySQL, MariaDB, PostGreSQL, MongoDB, Oracle
 - Cloud: AWS, OpenStack/OpenShift, Google Cloud
-- PM: Scrum, SAFe, ITIL
+- PM: Scrum, SAFe, ITIL, Prince2
 - Sec: Wireshark, Checkpoint, TCPDump, Nmap, Nessus, OpenVAS, Snort, Bro, Infection Monkey, CyberArk, etc.
 
 ---
