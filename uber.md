@@ -35,7 +35,7 @@ _Grandhomme_ ist der Weblog von Martin Grossmann; einem wissenshungrigen IT-Free
 
 ---
 
-### Technische Kenntnisse 
+### Technische Kenntnisse
 
 - Programmierung: Python, Golang, Javascript, Powershell, Bash inklusive gaengiger Dateiformate (JSON, YAML, YARA)
 - Infrastuktur: Windows sowie RedHat/CentOS inklusive minimaler Versionen (CoreOS, Atomic), Docker, Kata, VMWare, HyperV 
