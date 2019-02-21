@@ -51,7 +51,7 @@ _Grandhomme_ ist der Weblog von Martin Grossmann; einem wissenshungrigen IT-Free
 
 ### Referenzen
 
-Auf Anfrage
+Auf qualifizierte Anfrage
 
 
 
