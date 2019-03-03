@@ -20,7 +20,7 @@ _Grandhomme_ ist der Weblog von Martin Grossmann; einem wissenshungrigen IT-Free
 - Certified Kubernetes Administrator (mar.19) `Zertifizierung ausstehend`
 - Professional Scrum Master I (apr.19) `Zertifizierung ausstehend`
 - IT-Sicherheitsbeauftragter (ITSiBe) / Chief Information Security Officer (CISO) gemäß ISO/IEC 27001 und BSI IT-Grundschutz (jun.19) `Zertifizierung ausstehend`
-- IT-Sicherheitsaudits bei KRITIS-Betreibern – Zusätzliche Prüfverfahrens-Kompetenz für § 8a (3) BSIG `Zertifizierung ausstehend`
+- IT-Sicherheitsaudits bei KRITIS-Betreibern – Zusätzliche Prüfverfahrens-Kompetenz für § 8a (3) BSIG (jun.19)`Zertifizierung ausstehend`
 
 ---
 
