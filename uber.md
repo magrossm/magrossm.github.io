@@ -15,9 +15,9 @@ _Grandhomme_ ist der Weblog von Martin Grossmann; einem wissenshungrigen IT-Free
 - Ausbildung zum betrieblichen / behördlichen Datenschutzbeauftragten gemäß DSGVO und BDSG (Bitkom / Deutsche Gesellschaft fuer Informationssicherheit) `Zertifikat DGIAG-DSB-2019B1435`
 - Ausbildung zum BSI IT-Grundschutz-Experten gemäß BSI IT-Grundschutz-Kompendium und BSI-Standards (Bitkom / Deutsche Gesellschaft fuer Informationssicherheit) `Zertifikat DGIAG-GSE-2019B1452`
 - Cyber Security / Pentest Workshop (ThinkCyber, Tel Aviv)
-- Docker Certified Associate (feb.19) `Zertifizierung ausstehend`
-- ITIL 4 Foundation (mar.19) `Zertifizierung ausstehend`
-- Certified Kubernetes Administrator (mar.19) `Zertifizierung ausstehend`
+- ITIL 4 Foundation (mar.19) `Zertifiziert 15.03.2019`
+- Docker Certified Associate (apr.19) `Zertifizierung ausstehend`
+- Certified Kubernetes Administrator (apr.19) `Zertifizierung ausstehend`
 - Professional Scrum Master I (apr.19) `Zertifizierung ausstehend`
 - IT-Sicherheitsbeauftragter (ITSiBe) / Chief Information Security Officer (CISO) gemäß ISO/IEC 27001 und BSI IT-Grundschutz (jun.19) `Zertifizierung ausstehend`
 - IT-Sicherheitsaudits bei KRITIS-Betreibern – Zusätzliche Prüfverfahrens-Kompetenz für § 8a (3) BSIG (jun.19)`Zertifizierung ausstehend`
